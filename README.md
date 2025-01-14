@@ -5,13 +5,13 @@ A project that enables searching through audio and video files by identifying an
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Project Overview](#project-overview)
-5. [Technologies Used](#technologies-used)
-6. [Contributing](#contributing)
-7. [License](#license)
+1. [Introduction:](#introduction)
+2. [Installation:](#installation)
+3. [Usage:](#usage)
+4. [Project Overview:](#project-overview)
+5. [Technologies Used:](#technologies-used)
+6. [Contributing:](#contributing)
+7. [License:](#license)
 
 ## Introduction
 
